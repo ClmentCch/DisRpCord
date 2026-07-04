@@ -25,8 +25,8 @@
 
 | Plateforme | Fichier | Lien |
 |---|---|---|
-| Windows | `DisRpCord.exe` | [Releases](https://github.com/<ton-utilisateur>/DisRpCord/releases) |
-| Android | `DisRpCord.apk` | [Releases](https://github.com/<ton-utilisateur>/DisRpCord/releases) |
+| Windows | `DisRpCord.exe` | [Releases](https://github.com/ClmentCch/DisRpCord/releases) |
+| Android | `DisRpCord.apk` | [Releases](https://github.com/ClmentCch/DisRpCord/releases) |
 
 ## 🚀 Utilisation
 
