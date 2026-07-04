@@ -5,7 +5,7 @@
 <h1 align="center">DisRpCord</h1>
 
 <p align="center">
-  Rich Presence Discord personnalisée — exécutables Windows & Android.
+  Custom Discord Rich Presence — Windows & Android executables.
 </p>
 
 <p align="center">
@@ -15,49 +15,34 @@
 
 ---
 
-## 📖 À propos
+## 📖 About
 
-**DisRpCord** permet d'afficher une **Rich Presence personnalisée** sur Discord (jeu, activité custom, images, boutons, chrono en temps réel...).
+**DisRpCord** lets you display a **custom Rich Presence** on Discord (a game, custom activity, images, buttons, real-time timer...).
 
-> 📦 Ce dépôt sert uniquement de stockage pour les builds (`.exe` / `.apk`). Ce n'est pas un projet open-source.
+> 📦 This repository is only used to store the builds (`.exe` / `.apk`). It is not an open-source project.
 
-## 📥 Téléchargements
+## 📥 Downloads
 
-| Plateforme | Fichier | Lien |
+| Platform | File | Link |
 |---|---|---|
 | Windows | `DisRpCord.exe` | [Releases](https://github.com/ClmentCch/DisRpCord/releases) |
 | Android | `DisRpCord.apk` | [Releases](https://github.com/ClmentCch/DisRpCord/releases) |
 
-## 🚀 Utilisation
+## 🚀 Usage
 
 **Windows**
-1. Télécharge `DisRpCord.exe`
-2. Lance Discord
-3. Double-clique sur l'exécutable
-4. Ta Rich Presence s'affiche sur ton profil tant que l'app tourne
+1. Download `DisRpCord.exe`
+2. Launch Discord
+3. Double-click the executable
+4. Your Rich Presence shows on your profile as long as the app is running
 
 **Android**
-1. Télécharge `DisRpCord.apk`
-2. Autorise l'installation depuis une source inconnue si demandé
-3. Installe et lance l'application
+1. Download `DisRpCord.apk`
+2. Allow installation from unknown sources if prompted
+3. Install and launch the app
 
-> ⚠️ Windows SmartScreen ou Android peuvent afficher un avertissement pour les fichiers non signés. C'est normal pour un build perso.
-
-## ⚙️ Configuration
-
-Le fichier `config.json` (à côté de l'exécutable) contient les infos de la présence :
-
-```json
-{
-  "clientId": "TON_CLIENT_ID",
-  "details": "En train de coder un truc cool",
-  "state": "Projet DisRpCord",
-  "largeImageKey": "logo",
-  "largeImageText": "DisRpCord",
-  "startTimestamp": true
-}
-```
+> ⚠️ Windows SmartScreen or Android may show a warning for unsigned files. This is expected for a personal build.
 
 ---
 
-<p align="center">Projet perso de Clément</p>
+<p align="center">Personal project by Clément</p>
